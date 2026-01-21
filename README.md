@@ -33,8 +33,6 @@ Experimental brightness estimates are summarized in Table 1 of the report
 
 The relationship between perceived brightness and duty cycle is shown in Figure 2
 
-Results are discussed using the Weber–Fechner law
-
 5. Asynchronous Control and Button Interface
 
 Asynchronous programming (asyncio) was used to allow concurrent LED blinking and button monitoring.
