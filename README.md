@@ -1,7 +1,7 @@
 # Assignment_1_PWM
 Assignment 1: GPIO-Based PWM on the PYNQ-Z2
 
-Author: Anthony Betancourt
+Author: aebetancourt14
 Lab Group: 3
 Platform: PYNQ-Z2
 
